@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0xTrevor Blog</title>
+    <link>https://0xTrevor-Blog.githup.io/</link>
+    <description>Recent content on 0xTrevor Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Jul 2021 21:26:07 +0200</lastBuildDate><atom:link href="https://0xTrevor-Blog.githup.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pre_Security</title>
+      <link>https://0xTrevor-Blog.githup.io/post/pre_security/</link>
+      <pubDate>Wed, 07 Jul 2021 21:26:07 +0200</pubDate>
+      
+      <guid>https://0xTrevor-Blog.githup.io/post/pre_security/</guid>
+      <description>Write-up For TryHackMe Pre-Security path</description>
+    </item>
+    
+  </channel>
+</rss>
